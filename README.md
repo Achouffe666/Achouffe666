@@ -16,6 +16,6 @@ i'm currently working on perfectionning my REACT's skills  :muscle:
 ###### &#8594; Follow my Linkedin [here!](https://www.linkedin.com/in/austin-benard/)  
 
 ### <ins>Looking for my work?</ins>  
-###### My public projects are displayed down below ### &#8595;
+###### My public projects are displayed down below &#8595;
 
 
