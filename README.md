@@ -11,7 +11,7 @@ i'm currently working on perfectionning my Angular's skills  :muscle:
 ![](Images/javascript.png)
 ![](Images/php.png)
 ![](Images/react.png)
-![](Images/angular.jpg)
+![](Images/angular.svg)
 
 ### <ins>Find out more about me?</ins>  
 ###### &#8594; Follow my Linkedin [here!](https://www.linkedin.com/in/austin-benard/)  
