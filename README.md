@@ -2,7 +2,7 @@
 # Welcome! 👋
 
 ### <ins> Let me introduce Myself </ins>
-I'm a junior web devoloper, i can work with HTML, SASS, JAVASCRIPT, PHP, REACT, Angular.  
+I'm a junior web devoloper, i can work with HTML, SASS, JAVASCRIPT, PHP, VUE, ANGULAR.  
 I love descovering new things, and i like learning a lot.  
 i'm currently working on perfectionning my Angular's skills  :muscle:  
 
@@ -10,7 +10,7 @@ i'm currently working on perfectionning my Angular's skills  :muscle:
 ![](Images/sass.png)
 ![](Images/javascript.png)
 ![](Images/php.png)
-![](Images/react.png)
+![](Images/vue.png)
 ![](Images/angular.svg)
 
 ### <ins>Find out more about me?</ins>  
